@@ -18,7 +18,8 @@
     "url": "https://github.com/daesy13/city-explorer/issues"
   },
   "homepage": "https://github.com/daesy13/city-explorer#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
